@@ -1,0 +1,22 @@
+# MIT 8.701: Introduction to Nuclear and Particle Physics
+
+This repository contains a detailed rewrite and synthesis of the course **MIT 8.701**, taught by **Professor Markus Klute**. These notes bridge the gap between introductory physics and graduate-level particle phenomenology.
+
+## 🔬 Course Highlights
+This rewrite covers the experimental foundations and theoretical models of the subatomic world, including:
+*   **Historical Foundations:** Rutherford's Gold Foil experiment and the discovery of the neutron.
+*   **Relativistic Wave Equations:** Detailed look at the Klein-Gordon and Dirac Equations.
+*   **The Standard Model:**
+    *   **QED (Quantum Electrodynamics):** Feynman diagrams and the photon.
+    *   **QCD (Quantum Chromodynamics):** Quarks, color charge, and gluons.
+    *   **Weak Interactions:** Parity violation and neutrino oscillations.
+*   **Higgs Physics:** Spontaneous symmetry breaking and mass generation.
+*   **Nuclear Physics:** Fission, fusion, and stellar nucleosynthesis.
+*   **Detection Technology:** Calorimetry, Cherenkov radiation, and particle accelerators.
+
+## 🖋️ About the Notes
+Prepared and structured by **Samah Shehata**. 
+Unlike standard lecture transcripts, these notes focus on providing **Important Notes** sidebars that explain *why* specific discoveries (like CP violation or the Higgs boson) changed our understanding of the universe.
+
+---
+*Credit: Original course materials from MIT OpenCourseWare.*
